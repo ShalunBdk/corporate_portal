@@ -105,8 +105,6 @@
 
 [Ссылка](https://www.drawdb.app/editor?shareId=689fc89c0cf418905b5fa17d3e9e9f81)
 
-![[Pasted image 20241022234953.png]]
-
 ## API ручки
 
 ### Users
